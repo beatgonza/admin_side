@@ -5,6 +5,8 @@ gem 'pg'
 gem 'bootstrap-sass'
 gem 'formtastic', '~> 2.0.0'
 gem 'haml-rails'
+gem 'inherited_resources'
+gem 'kaminari'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
